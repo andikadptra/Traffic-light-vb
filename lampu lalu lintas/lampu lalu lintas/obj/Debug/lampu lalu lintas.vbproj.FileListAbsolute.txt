@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2013\Projects\lampu lalu lintas\lampu lalu lintas\bin\Debug\lampu lalu lintas.exe.config
+C:\Users\User\documents\visual studio 2013\Projects\lampu lalu lintas\lampu lalu lintas\bin\Debug\lampu lalu lintas.exe
+C:\Users\User\documents\visual studio 2013\Projects\lampu lalu lintas\lampu lalu lintas\bin\Debug\lampu lalu lintas.pdb
+C:\Users\User\documents\visual studio 2013\Projects\lampu lalu lintas\lampu lalu lintas\bin\Debug\lampu lalu lintas.xml
+C:\Users\User\documents\visual studio 2013\Projects\lampu lalu lintas\lampu lalu lintas\obj\Debug\lampu_lalu_lintas.Form1.resources
+C:\Users\User\documents\visual studio 2013\Projects\lampu lalu lintas\lampu lalu lintas\obj\Debug\lampu_lalu_lintas.Resources.resources
+C:\Users\User\documents\visual studio 2013\Projects\lampu lalu lintas\lampu lalu lintas\obj\Debug\lampu lalu lintas.vbproj.GenerateResource.Cache
+C:\Users\User\documents\visual studio 2013\Projects\lampu lalu lintas\lampu lalu lintas\obj\Debug\lampu lalu lintas.exe
+C:\Users\User\documents\visual studio 2013\Projects\lampu lalu lintas\lampu lalu lintas\obj\Debug\lampu lalu lintas.xml
+C:\Users\User\documents\visual studio 2013\Projects\lampu lalu lintas\lampu lalu lintas\obj\Debug\lampu lalu lintas.pdb
+C:\Users\User\documents\visual studio 2013\Projects\lampu lalu lintas\lampu lalu lintas\obj\Debug\lampu lalu lintas.vbprojResolveAssemblyReference.cache
